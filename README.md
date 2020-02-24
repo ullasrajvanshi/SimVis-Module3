@@ -28,4 +28,5 @@ Welcome. Before you can start with the module, we need to make sure that you and
 7. Now we have succesfully installed all the files which require a lot of work due to their dependencies in a few seconds. Finally we will install the requirements.txt 
 
 `pip install -r requirements.txt`
+
 8. You are now done. You can now start spyder or jupyter notebook by typing either `spyder` (Some versions use `spyder3` command) or `jupyter notebook`  
