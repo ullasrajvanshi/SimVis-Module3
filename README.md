@@ -24,6 +24,7 @@ Welcome. Before you can start with the module, we need to make sure that you and
 `pip install geopandas-0.7.0-py3-none-any.whl`
 
 `pip install pyshp-2.1.0-py2.py3-none-any.whl`
+
 7. Now we have succesfully installed all the files which require a lot of work due to their dependencies in a few seconds. Finally we will install the requirements.txt 
 
 `pip install -r requirements.txt`
